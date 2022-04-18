@@ -9,4 +9,4 @@
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@your-nikname](https://telegram.me/kreslavskiy)</code>
-<code>📫 [your-email](mailto:m.keslavskiy@icloud.com)</code>
+<code>📫 [email](mailto:m.keslavskiy@icloud.com)</code>

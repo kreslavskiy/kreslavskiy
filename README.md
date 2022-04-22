@@ -10,3 +10,5 @@
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 [telegram](https://telegram.me/kreslavskiy)</code>
 <code>📫 [email](mailto:m.keslavskiy@icloud.com)</code>
+
+![languages] (https://github-readme-stats.vercel.app/api/top-langs/?username=kreslavskiy&theme=chartreuse-dark&layout=compact)

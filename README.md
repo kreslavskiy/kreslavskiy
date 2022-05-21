@@ -11,4 +11,4 @@
 <code>💬 [telegram](https://telegram.me/kreslavskiy)</code>
 <code>📫 [email](mailto:m.keslavskiy@icloud.com)</code>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kreslavskiy&show_icons=true&include_all_commits=true&theme=shades-of-purple_border=false" alt="Michael's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kreslavskiy&layout=compact&theme=shades-of-purple_border=false" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=kreslavskiy&show_icons=true&include_all_commits=true&theme=shades-of-purple_border=false" alt="Michael's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kreslavskiy&layout=compact&theme=shades-of-purple_border=false" /></a>

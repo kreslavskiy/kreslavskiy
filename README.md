@@ -7,7 +7,6 @@
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>🧑‍💻 Languages: JavaScript, C</code>
 <code>📦 Tech stack: node.js</code>
-<code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 [telegram](https://telegram.me/kreslavskiy)</code>
 <code>📫 [email](mailto:m.keslavskiy@icloud.com)</code>
 

@@ -6,7 +6,7 @@
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>🧑‍💻 Languages: JavaScript, C</code>
-<code>📦 Tech stack: node.js</code>
+<code>📦 Tech stack: Node.js, MongoDB, Firebase</code>
 <code>💬 [telegram](https://telegram.me/kreslavskiy)</code>
 <code>📫 [email](mailto:m.keslavskiy@icloud.com)</code>
 

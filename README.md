@@ -10,6 +10,6 @@
 <code>💬 [telegram](https://telegram.me/kreslavskiy)</code>
 <code>📫 [email](mailto:m.keslavskiy@icloud.com)</code>
 
-![Top Langs]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kreslavskiy&theme=chartreuse-dark&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kreslavskiy&theme=chartreuse-dark)

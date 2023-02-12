@@ -8,7 +8,7 @@
 <code>🧑‍💻 Languages: JavaScript, Swift</code>
 <code>📦 Tech stack: Node.js, MongoDB, Firebase</code>
 <code>💬 [telegram](https://telegram.me/kreslavskiy)</code>
-<code>📫 [email](mailto:m.keslavskiy@icloud.com)</code>
+<code>📫 [email](mailto:mishak1000236@gmail.com)</code>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kreslavskiy&theme=chartreuse-dark&layout=compact)
 
